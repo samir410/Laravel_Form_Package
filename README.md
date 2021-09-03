@@ -1,5 +1,5 @@
 This will help user to build form eassily and also mail trap implement
-[[!Issues](https://img.shields.io/github/issues/samir410/Laravel_Form_Package)](https://github.com/samir410/Laravel_Form_Package/issues)
+[[!Issues](https://img.shields.io/github/forks/samir410/Laravel_Form_Package?style=social)](https://github.com/samir410/Laravel_Form_Package/issues)
 
 https://img.shields.io/github/forks/samir410/Laravel_Form_Package?style=social
 
