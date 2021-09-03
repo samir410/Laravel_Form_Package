@@ -1,0 +1,21 @@
+{
+    "name": "samir/formbuilder",
+    "description": "This will help user to build form eassily and also mail trap implement",
+    "authors": [
+        {
+            "name": "Samir Hossain",
+            "email": "samirhossain924@gmail.com"
+        }
+    ],
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "samir\\formbuilder": "src/"
+        }
+    }
+
+   
+}
