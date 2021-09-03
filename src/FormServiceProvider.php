@@ -15,7 +15,7 @@ class FormServiceProvider extends ServiceProvider {
         $this->mergeConfigFrom(
             __DIR__.'/config/confirm.php', 'FormBuilder'
         );
-        
+
         $this->publishes([
             __DIR__.'/config/confirm.php' => config_path('confirm.php'),
         ]);

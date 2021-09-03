@@ -2,9 +2,9 @@
 
 namespace samir\formbuilder\Http\Controllers;
 use App\Http\Controllers\Controller;
-use samirxo\formbuilder\Models\Form;
+use samir\formbuilder\Models\Form;
 use Mail;
-use samirxo\formbuilder\Mail\ConfirmMailable;
+use samir\formbuilder\Mail\ConfirmMailable;
 
 use Illuminate\Http\Request;
 

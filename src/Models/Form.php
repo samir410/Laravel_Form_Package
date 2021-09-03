@@ -1,6 +1,6 @@
 <?php
 
-namespace samirxo\formbuilder\Models;
+namespace samir\formbuilder\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

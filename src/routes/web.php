@@ -2,7 +2,7 @@
 
 use Illuminate\Http\Request;
 
-Route::group(['namespace'=>'samirxo\formbuilder\Http\Controllers'], function(){
+Route::group(['namespace'=>'samir\formbuilder\Http\Controllers'], function(){
     
     
     Route::get('FormBuilder', 'FormController@index')->name('FormBuilder');
