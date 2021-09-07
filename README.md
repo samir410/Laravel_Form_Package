@@ -1,13 +1,10 @@
 This will help user to build form eassily and also mail trap implement
-[[!Issues](https://img.shields.io/github/forks/samir410/Laravel_Form_Package?style=social)](https://github.com/samir410/Laravel_Form_Package/issues)
+package name: samirxo/formbuilder
 
-https://img.shields.io/github/forks/samir410/Laravel_Form_Package?style=social
+first type in
+composer require samirxo/formbuilder
 
-https://img.shields.io/github/forks/samir410/Laravel_Form_Package?style=social
+Then migrate
 
-https://img.shields.io/github/forks/samir410/Laravel_Form_Package?style=for-the-badge
-
-[[!Stars](https://img.shields.io/github/stars/samir410/Laravel_Form_Package?style=for-the-badge)]
-
-https://img.shields.io/twitter/url?style=social
+Goto:http://127.0.0.1:8000/FormBuilder
 contact me at samirhossain924@gmail.com
